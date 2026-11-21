@@ -4,7 +4,7 @@ go 1.27.3
 
 require (
 	github.com/egoist/mygo v0.10.0
-	github.com/waygu-music-plugin/sdk v0.1.1
+	github.com/waygu-music-plugin/sdk v0.1.2
 )
 
 require (
